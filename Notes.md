@@ -1,8 +1,8 @@
 # For the future
 
-###    This is for any **upcoming _individual_ projects**
+###    This is for any upcoming _individual_ projects
 
-# **For App Development & For Web App Development**
+# For App Development & For Web App Development
 
     Make sure everything is clean ---->
     
