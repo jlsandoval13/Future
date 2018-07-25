@@ -8,4 +8,4 @@
             - Make pushes clearly labeled
             - Project titles need to be VERY DISTINCT
 
-# Make any update time consistent
+# Make any updates made consistent
